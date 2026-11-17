@@ -1,0 +1,37 @@
+{
+  "hubs": [
+    "DXB",
+    "IST",
+    "LHR",
+    "AMS",
+    "DOH",
+    "JFK",
+    "SIN"
+  ],
+  "popular": [
+    {
+      "from": "LOS",
+      "to": "LHR"
+    },
+    {
+      "from": "LOS",
+      "to": "DXB"
+    },
+    {
+      "from": "LOS",
+      "to": "NBO"
+    },
+    {
+      "from": "ACC",
+      "to": "JFK"
+    },
+    {
+      "from": "LHR",
+      "to": "SIN"
+    },
+    {
+      "from": "LOS",
+      "to": "CPT"
+    }
+  ]
+}

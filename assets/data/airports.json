@@ -1,0 +1,182 @@
+[
+  {
+    "code": "LOS",
+    "city": "Lagos",
+    "name": "Murtala Muhammed",
+    "country": "Nigeria",
+    "lat": 6.577,
+    "lon": 3.321,
+    "utcOffsetMin": 60
+  },
+  {
+    "code": "ABV",
+    "city": "Abuja",
+    "name": "Nnamdi Azikiwe",
+    "country": "Nigeria",
+    "lat": 9.007,
+    "lon": 7.263,
+    "utcOffsetMin": 60
+  },
+  {
+    "code": "ACC",
+    "city": "Accra",
+    "name": "Kotoka",
+    "country": "Ghana",
+    "lat": 5.605,
+    "lon": -0.167,
+    "utcOffsetMin": 0
+  },
+  {
+    "code": "NBO",
+    "city": "Nairobi",
+    "name": "Jomo Kenyatta",
+    "country": "Kenya",
+    "lat": -1.319,
+    "lon": 36.928,
+    "utcOffsetMin": 180
+  },
+  {
+    "code": "CPT",
+    "city": "Cape Town",
+    "name": "Cape Town International",
+    "country": "South Africa",
+    "lat": -33.965,
+    "lon": 18.602,
+    "utcOffsetMin": 120
+  },
+  {
+    "code": "CAI",
+    "city": "Cairo",
+    "name": "Cairo International",
+    "country": "Egypt",
+    "lat": 30.122,
+    "lon": 31.406,
+    "utcOffsetMin": 120
+  },
+  {
+    "code": "LHR",
+    "city": "London",
+    "name": "Heathrow",
+    "country": "United Kingdom",
+    "lat": 51.47,
+    "lon": -0.454,
+    "utcOffsetMin": 0
+  },
+  {
+    "code": "CDG",
+    "city": "Paris",
+    "name": "Charles de Gaulle",
+    "country": "France",
+    "lat": 49.01,
+    "lon": 2.548,
+    "utcOffsetMin": 60
+  },
+  {
+    "code": "AMS",
+    "city": "Amsterdam",
+    "name": "Schiphol",
+    "country": "Netherlands",
+    "lat": 52.309,
+    "lon": 4.764,
+    "utcOffsetMin": 60
+  },
+  {
+    "code": "LIS",
+    "city": "Lisbon",
+    "name": "Humberto Delgado",
+    "country": "Portugal",
+    "lat": 38.774,
+    "lon": -9.134,
+    "utcOffsetMin": 0
+  },
+  {
+    "code": "IST",
+    "city": "Istanbul",
+    "name": "Istanbul Airport",
+    "country": "Türkiye",
+    "lat": 41.262,
+    "lon": 28.742,
+    "utcOffsetMin": 180
+  },
+  {
+    "code": "DXB",
+    "city": "Dubai",
+    "name": "Dubai International",
+    "country": "United Arab Emirates",
+    "lat": 25.253,
+    "lon": 55.364,
+    "utcOffsetMin": 240
+  },
+  {
+    "code": "DOH",
+    "city": "Doha",
+    "name": "Hamad International",
+    "country": "Qatar",
+    "lat": 25.273,
+    "lon": 51.608,
+    "utcOffsetMin": 180
+  },
+  {
+    "code": "JFK",
+    "city": "New York",
+    "name": "John F. Kennedy",
+    "country": "United States",
+    "lat": 40.641,
+    "lon": -73.778,
+    "utcOffsetMin": -300
+  },
+  {
+    "code": "LAX",
+    "city": "Los Angeles",
+    "name": "Los Angeles International",
+    "country": "United States",
+    "lat": 33.942,
+    "lon": -118.409,
+    "utcOffsetMin": -480
+  },
+  {
+    "code": "YYZ",
+    "city": "Toronto",
+    "name": "Pearson",
+    "country": "Canada",
+    "lat": 43.677,
+    "lon": -79.631,
+    "utcOffsetMin": -300
+  },
+  {
+    "code": "GRU",
+    "city": "São Paulo",
+    "name": "Guarulhos",
+    "country": "Brazil",
+    "lat": -23.435,
+    "lon": -46.473,
+    "utcOffsetMin": -180
+  },
+  {
+    "code": "SIN",
+    "city": "Singapore",
+    "name": "Changi",
+    "country": "Singapore",
+    "lat": 1.364,
+    "lon": 103.991,
+    "utcOffsetMin": 480
+  },
+  {
+    "code": "HND",
+    "city": "Tokyo",
+    "name": "Haneda",
+    "country": "Japan",
+    "lat": 35.549,
+    "lon": 139.78,
+    "utcOffsetMin": 540
+  },
+  {
+    "code": "SYD",
+    "city": "Sydney",
+    "name": "Kingsford Smith",
+    "country": "Australia",
+    "lat": -33.94,
+    "lon": 151.175,
+    "utcOffsetMin": 600
+  }
+]

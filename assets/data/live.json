@@ -1,0 +1,63 @@
+[
+  {
+    "airline": "HC",
+    "number": "318",
+    "from": "DXB",
+    "to": "SIN",
+    "departInMin": -150,
+    "durationMin": 445,
+    "tracked": true
+  },
+  {
+    "airline": "KS",
+    "number": "204",
+    "from": "ACC",
+    "to": "LOS",
+    "departInMin": 28,
+    "durationMin": 65,
+    "tracked": true
+  },
+  {
+    "airline": "MR",
+    "number": "560",
+    "from": "JFK",
+    "to": "LAX",
+    "departInMin": 95,
+    "durationMin": 370,
+    "delayMin": 45,
+    "tracked": true
+  },
+  {
+    "airline": "NW",
+    "number": "126",
+    "from": "AMS",
+    "to": "LIS",
+    "departInMin": -240,
+    "durationMin": 180
+  },
+  {
+    "airline": "SV",
+    "number": "409",
+    "from": "NBO",
+    "to": "CPT",
+    "departInMin": 200,
+    "durationMin": 330,
+    "cancelled": true
+  },
+  {
+    "airline": "AL",
+    "number": "731",
+    "from": "LHR",
+    "to": "JFK",
+    "departInMin": -200,
+    "durationMin": 480
+  },
+  {
+    "airline": "HC",
+    "number": "052",
+    "from": "SIN",
+    "to": "HND",
+    "departInMin": 1500,
+    "durationMin": 410
+  }
+]

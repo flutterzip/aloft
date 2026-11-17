@@ -1,0 +1,26 @@
+[
+  {
+    "code": "AL",
+    "name": "{app} Air"
+  },
+  {
+    "code": "NW",
+    "name": "Northwind"
+  },
+  {
+    "code": "HC",
+    "name": "Halcyon Airways"
+  },
+  {
+    "code": "KS",
+    "name": "Kestrel"
+  },
+  {
+    "code": "MR",
+    "name": "Meridian"
+  },
+  {
+    "code": "SV",
+    "name": "Savanna Air"
+  }
+]

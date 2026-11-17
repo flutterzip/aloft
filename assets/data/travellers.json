@@ -1,0 +1,23 @@
+[
+  {
+    "id": "me",
+    "name": "Olympicson",
+    "born": 1994,
+    "nationality": "Nigeria",
+    "passport": "4471"
+  },
+  {
+    "id": "ada",
+    "name": "Ada Okafor",
+    "born": 1996,
+    "nationality": "Nigeria",
+    "passport": "9026"
+  },
+  {
+    "id": "tobi",
+    "name": "Tobi Okafor",
+    "born": 2017,
+    "nationality": "Nigeria",
+    "passport": ""
+  }
+]

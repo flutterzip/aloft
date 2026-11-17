@@ -1,0 +1,134 @@
+[
+  {
+    "id": "t-lhr",
+    "pnr": "K7QM4X",
+    "airline": "AL",
+    "number": "482",
+    "from": "LOS",
+    "to": "LHR",
+    "departInMin": 635,
+    "durationMin": 405,
+    "cabin": "economy",
+    "seats": [
+      "24A"
+    ],
+    "travellers": [
+      "Olympicson"
+    ],
+    "totalCents": 61200
+  },
+  {
+    "id": "t-nbo",
+    "pnr": "R2HD9C",
+    "airline": "SV",
+    "number": "117",
+    "from": "LOS",
+    "to": "NBO",
+    "departInMin": 17300,
+    "durationMin": 320,
+    "cabin": "business",
+    "seats": [
+      "6A",
+      "6C"
+    ],
+    "travellers": [
+      "Olympicson",
+      "Ada Okafor"
+    ],
+    "totalCents": 268400
+  },
+  {
+    "id": "t-dxb",
+    "pnr": "W5TN8B",
+    "airline": "HC",
+    "number": "905",
+    "from": "LHR",
+    "to": "DXB",
+    "departInMin": 41900,
+    "durationMin": 415,
+    "cabin": "premium",
+    "seats": [
+      "14D"
+    ],
+    "travellers": [
+      "Olympicson"
+    ],
+    "totalCents": 98000
+  },
+  {
+    "id": "t-acc",
+    "pnr": "M3VL6P",
+    "airline": "KS",
+    "number": "230",
+    "from": "ACC",
+    "to": "LOS",
+    "departInMin": -30500,
+    "durationMin": 65,
+    "cabin": "economy",
+    "seats": [
+      "21C"
+    ],
+    "travellers": [
+      "Olympicson"
+    ],
+    "totalCents": 14900,
+    "checkedIn": true
+  },
+  {
+    "id": "t-ist",
+    "pnr": "B8XF2J",
+    "airline": "MR",
+    "number": "614",
+    "from": "LOS",
+    "to": "IST",
+    "departInMin": -92000,
+    "durationMin": 395,
+    "cabin": "economy",
+    "seats": [
+      "30F"
+    ],
+    "travellers": [
+      "Olympicson"
+    ],
+    "totalCents": 54300,
+    "checkedIn": true
+  },
+  {
+    "id": "t-cdg",
+    "pnr": "Z4KW7D",
+    "airline": "NW",
+    "number": "771",
+    "from": "IST",
+    "to": "CDG",
+    "departInMin": -86000,
+    "durationMin": 215,
+    "cabin": "economy",
+    "seats": [
+      "19B"
+    ],
+    "travellers": [
+      "Olympicson"
+    ],
+    "totalCents": 23100,
+    "checkedIn": true
+  },
+  {
+    "id": "t-cpt",
+    "pnr": "H9RC3T",
+    "airline": "SV",
+    "number": "342",
+    "from": "LOS",
+    "to": "CPT",
+    "departInMin": 8700,
+    "durationMin": 390,
+    "cabin": "economy",
+    "seats": [
+      "27D"
+    ],
+    "travellers": [
+      "Olympicson"
+    ],
+    "totalCents": 47800,
+    "cancelledByYou": true
+  }
+]
